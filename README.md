@@ -16,6 +16,7 @@ You can find the paper for this GitHub repository: https://asa.scitation.org/doi
 ## Users Guides
 
 [Technical Document](https://github.com/ssprl/Noise-Injection-Based-Acoustic-Feedback-Cancellation/blob/master/Real_Time_Noise_Injection.pdf)
+
 [User Guide](https://github.com/ssprl/Noise-Injection-Based-Acoustic-Feedback-Cancellation/blob/master/User-Guide-Android_AFC_NI.pdf)
 
 ## Requirements 
