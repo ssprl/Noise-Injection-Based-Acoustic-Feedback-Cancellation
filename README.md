@@ -1,9 +1,8 @@
 # Noise Injection Based Acoustic Feedback Cancellation
-# Design and Integration of alert signal detector and separator for hearing Aid applications
 
 
 ## Overview
-This GitHub repository provides for Alert signal detection and separation on iOS smartphone platforms. The example app provided here is for hearing improvement studies. 
+This GitHub repository provides for Noise Injection Based Acoustic Feedback Cancellation.
 
 > **Abstract:** We propose a low latency smartphone-based application that demonstrates the real-time operation to cancel the negative effects of acoustic feedback arising from the coupling between the speaker and the microphone of the smartphone or similar device utilizing the robust Noise Injection (NI) method. We make use of multiple noise injections of short duration to estimate the filter coefficients of an appropriate order between the speaker and the microphone, in order to perform the feedback cancellation effectively in real-time. Our motive behind the development of this application is to perform an effective acoustic feedback cancellation irrespective of the position of speaker and the microphone on the platform under consideration. With the proposed application, we can estimate the transfer function between speaker and microphone in the changing room acoustics making the feedback cancellation very effective. A real-time implementation on an Android-based smartphone is presented in this paper.
 
